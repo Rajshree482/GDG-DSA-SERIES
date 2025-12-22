@@ -99,7 +99,7 @@ public class pattern {
         Inverted_Right_Pyramid(n);
 
         System.out.println("\nHollow Square Pattern:");
-        Inverted_Right_Pyramid(n);
+        Hollow_Square_Pattern(n);
         
         
         sc.close();
