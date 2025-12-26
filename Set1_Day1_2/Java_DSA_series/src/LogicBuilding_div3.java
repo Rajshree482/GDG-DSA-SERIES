@@ -1,5 +1,5 @@
 
-public class LogicBuilding {
+public class LogicBuilding_div3 {
 
     //________________________________________1. Count Digits_______________________________________________
     // Counts how many digits of N evenly divide N.
