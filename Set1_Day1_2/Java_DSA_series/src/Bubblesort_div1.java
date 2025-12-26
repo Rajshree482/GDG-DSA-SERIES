@@ -1,4 +1,4 @@
-public class BubbleSort {
+public class Bubblesort_div1 {
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
         int temp; 

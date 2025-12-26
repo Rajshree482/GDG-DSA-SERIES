@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pattern {
+public class pattern_div2 {
     
     public static void rectanglePattern(int n) {
         for (int i = 0; i < n; i++) {
